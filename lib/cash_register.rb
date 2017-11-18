@@ -6,6 +6,6 @@ class CashRegister
   end
 
   def new
-
+    @total = 0
   end
 end
