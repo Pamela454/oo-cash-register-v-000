@@ -19,7 +19,6 @@ def apply_discount
   "After the discount, the total comes to $#{self.total}."
 else "There is no discount to apply."
 end
-  @items << title
 end
 
 def void_last_transaction
