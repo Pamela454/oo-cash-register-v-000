@@ -1,3 +1,7 @@
 class CashRegister
-  attr_accessor 
+  attr_accessor :name
+
+  def initialization
+
+  end
 end
