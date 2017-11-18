@@ -6,6 +6,8 @@ class CashRegister
     cash_register_with_discount = 20
   end
 
+def add_item
 
+end
 
 end
