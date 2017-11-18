@@ -10,7 +10,7 @@ def add_item
 
 end
 
-def cash_register_with_discount
+def apply_discount
 
 end
 
