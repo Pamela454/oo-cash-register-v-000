@@ -5,7 +5,4 @@ class CashRegister
     @total = 0
   end
 
-  def new
-    @total = 0
-  end
 end
