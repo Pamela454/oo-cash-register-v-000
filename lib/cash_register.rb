@@ -14,6 +14,7 @@ end
 end
 
 def apply_discount(discount)
+  if discount != 0
   self.total * discount
 end
 
