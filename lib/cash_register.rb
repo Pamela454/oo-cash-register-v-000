@@ -13,8 +13,8 @@ def add_item(title, price, quantity=1)
 end
 end
 
-def apply_discount
-  self.total * discount 
+def apply_discount(discount)
+  self.total * discount
 end
 
 def apply_discount
