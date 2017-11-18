@@ -10,4 +10,8 @@ def add_item
 
 end
 
+def cash_register_with_discount
+
+end
+
 end
