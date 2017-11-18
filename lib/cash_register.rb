@@ -15,7 +15,7 @@ end
 
 def apply_discount(discount)
   if discount != 0
-  self.total * discount
+  self.total 
 end
 
 def void_last_transaction
