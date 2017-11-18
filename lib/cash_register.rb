@@ -14,7 +14,7 @@ end
 end
 
 def apply_discount
-  
+  self.total 
 end
 
 def apply_discount
