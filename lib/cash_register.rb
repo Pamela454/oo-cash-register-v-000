@@ -14,6 +14,7 @@ end
 end
 
 def apply_discount
+  
 end
 
 def apply_discount
