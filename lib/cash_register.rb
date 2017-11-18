@@ -22,7 +22,7 @@ end
 end
 
 def items
-  items << itmes.new 
+  @items << items.new 
 end
 
 def void_last_transaction
